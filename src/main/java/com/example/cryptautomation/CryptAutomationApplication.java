@@ -7,7 +7,8 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class CryptAutomationApplication {
 
     public static void main(String[] args) {
-        SpringApplication.run(CryptAutomationApplication.class, args);
+        SpringApplication.run
+                (CryptAutomationApplication.class, args);
     }
 
 }
